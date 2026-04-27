@@ -19,6 +19,7 @@ I love turning data into meaningful insights and building real-world solutions u
 - Predicts student productivity and provides insights  
 
 🔗 Live Project: https://study-ai-optimizer.onrender.com  
+🔗 GitHub Repo: https://github.com/aditiasr/study-ai-optimizer
 
 ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/aditi-singh-3934522a4
