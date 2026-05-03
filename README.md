@@ -18,7 +18,7 @@ I love turning data into meaningful insights and building real-world solutions u
 - Used a dataset of 5000+ records  
 - Predicts student productivity and provides insights  
 
-🔗 Live Project: https://study-ai-optimizer.onrender.com  
+🔗 Live Project: https://ai-study-optimizer.onrender.com  
 🔗 GitHub Repo: https://github.com/aditiasr/study-ai-optimizer
 
 ## 📫 Connect with me
